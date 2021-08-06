@@ -2,7 +2,7 @@
 
 > 本项目源于：https://github.com/jirengu-inc/animating-resume。向作者表示深深的敬意。
 
-简历样例查看：https://monkeyhlj.github.io/resume/public/
+简历样例预览：https://monkeyhlj.github.io/resume/public/
 ## 使用方法
 
 1. 安装Node.js环境：https://nodejs.org/

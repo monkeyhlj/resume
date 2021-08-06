@@ -167,7 +167,7 @@ html {
 * [码云](https://gitee.com/monkeyhlj)
 * [我的博客](https://blog.csdn.net/hhhmonkey)
 
-> 该简历主要开发技术为Node.js，框架为Vue，如果你喜欢这个效果，Fork [我的项目](https://github.com/monkeyhlj/resume)，打造你自己的简历！
+> 该简历主要开发技术为Node.js，框架为Vue，如果你喜欢这个效果，Fork [我的项目](https://github.com/monkeyhlj/resume/tree/gh-pages)，打造你自己的简历！
 
 `
       }

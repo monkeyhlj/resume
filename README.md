@@ -1,6 +1,6 @@
 # 动态简历
 
-> 本项目源于：https://github.com/jirengu-inc/animating-resume。向作者表示深深的敬意。
+> 本项目源于：https://github.com/jirengu-inc/animating-resume。这里向原作者表示深深的敬意。
 
 简历样例预览：https://monkeyhlj.github.io/resume/public/
 ## 使用方法
@@ -12,7 +12,7 @@
 ## 执行以下命令
 
 ``` bash
-git clone https://github.com/monkeyhlj/resume.git
+git clone -b gh-pages https://github.com/monkeyhlj/resume.git
 cd resume
 npm install
 npm run dev
